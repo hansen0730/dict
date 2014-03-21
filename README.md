@@ -1,0 +1,4 @@
+dict
+====
+
+Linux offline dictionary
