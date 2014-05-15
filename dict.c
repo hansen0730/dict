@@ -24,9 +24,9 @@ inline static int to_int(unsigned char *from_int);
 
 ifo *fios;
 idx *idxs;
-const char *info_file = "res/ifo";
-const char *idx_file  = "res/idx";
-const char *dict_file = "res/dict.dz";
+const char *info_file = "/usr/local/share/dict/ifo";
+const char *idx_file  = "/usr/local/share/dict/idx";
+const char *dict_file = "/usr/local/share/dict/dict.dz";
 
 char *get_info(idx *idx)
 {
